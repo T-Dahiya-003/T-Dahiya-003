@@ -1,7 +1,9 @@
-- 👋 Hi, I’m Tanvi Dahiya
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Tanvi!;I'm+a+learning+developer...)](https://git.io/typing-svg)
 
 
    ![NIT Kurukshetra](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+   
 
 -  A little bit about me:
 
@@ -12,13 +14,14 @@
 -C , C++ , Python, HTML, CSS, JS,Nodejs, Expressjs, DSA, OOPS
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-Dahiya-003)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=T-Dahiya-003&show_icons=true)  
+![T-Dahiya-003 GitHub stats](https://github-readme-stats.vercel.app/api?username=T-Dahiya-003&show_icons=true&theme=radical) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=T-Dahiya-003&theme=radical)](https://git.io/streak-stats) 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-Dahiya-003)](https://github.com/anuraghazra/github-readme-stats)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=T-Dahiya-003)  
-
-![GitHub metrics](https://metrics.lecoq.io/T-Dahiya-003)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=T-Dahiya-003)  
 
