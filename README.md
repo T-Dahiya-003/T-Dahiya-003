@@ -21,9 +21,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-Dahiya-003)](https://github.com/anuraghazra/github-readme-stats)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=T-Dahiya-003)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=T-Dahiya-003)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=T-Dahiya-003)    
 
 ![Profile views](https://gpvc.arturio.dev/T-Dahiya-003) 
 
