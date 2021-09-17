@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&lines=Hey!+It's+Tanvi!;I'm+a+learning+developer...)](https://git.io/typing-svg)
 
 
-   ![NIT Kurukshetra](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+![NIT Kurukshetra](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
    
 
 -  A little bit about me:
@@ -16,12 +16,12 @@
 
 
 ![T-Dahiya-003 GitHub stats](https://github-readme-stats.vercel.app/api?username=T-Dahiya-003&show_icons=true&theme=radical) 
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=T-Dahiya-003&theme=radical)](https://git.io/streak-stats) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-Dahiya-003)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![github activity graph](https://activity-graph.herokuapp.com/graph?username=T-Dahiya-003&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=T-Dahiya-003)
 
 ![Profile views](https://gpvc.arturio.dev/T-Dahiya-003) 
 
